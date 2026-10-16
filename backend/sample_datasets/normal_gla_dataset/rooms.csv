@@ -1,0 +1,16 @@
+room_id,name,building,capacity,room_type,unavailable_slots
+AB11-101,CSED Block AB-XI Room 101,AB-XI CSED Block,80,THEORY,
+AB11-102,CSED Block AB-XI Room 102,AB-XI CSED Block,80,THEORY,D2-M
+AB11-103,CSED Block AB-XI Room 103,AB-XI CSED Block,60,THEORY,
+AB11-201,CSED Block AB-XI Room 201,AB-XI CSED Block,100,THEORY,
+AB11-202,CSED Block AB-XI Room 202,AB-XI CSED Block,100,THEORY,D4-E
+AB11-203,CSED Block AB-XI Room 203,AB-XI CSED Block,80,THEORY,
+AB11-301,CSED Block AB-XI Lecture Hall 301,AB-XI CSED Block,120,THEORY,
+AB11-302,CSED Block AB-XI Lecture Hall 302,AB-XI CSED Block,120,THEORY,D1-M
+AB11-AUD1,CSED Block AB-XI Mini Auditorium 1,AB-XI CSED Block,150,THEORY,
+AB11-AUD2,CSED Block AB-XI Mini Auditorium 2,AB-XI CSED Block,150,THEORY,
+AB11-LAB1,CSED Block AB-XI Central Computing Lab,AB-XI CSED Block,100,LAB,
+AB11-LAB2,CSED Block AB-XI Data Science Lab,AB-XI CSED Block,90,LAB,D3-E
+AB11-LAB3,CSED Block AB-XI Advanced Computing Lab,AB-XI CSED Block,90,LAB,
+AB11-LAB4,CSED Block AB-XI Database Systems Lab,AB-XI CSED Block,80,LAB,
+AB11-LAB5,CSED Block AB-XI AI & Cloud Lab,AB-XI CSED Block,80,LAB,D5-E

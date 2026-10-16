@@ -1,0 +1,21 @@
+faculty_id,name,department,unavailable_slots,max_duties
+FAC-101,Dr. Ashish Sharma,CSED,D1-M|D4-E,5
+FAC-102,Prof. Manoj Kumar,CSED,D2-E,4
+FAC-103,Dr. Neha Agrawal,BCA,,5
+FAC-104,Dr. Sachin Upadhyay,CSED,D3-M,4
+FAC-105,Prof. Pooja Pathak,BCA,,4
+FAC-106,Dr. Rajesh Singh,MCA,D5-E,5
+FAC-107,Prof. Deepa Gupta,BCA,D1-E,4
+FAC-108,Dr. Arvind Sharma,CSED,,6
+FAC-109,Prof. Vikram Chaudhary,MCA,D2-M,4
+FAC-110,Dr. Ritu Bhargava,BCA,,5
+FAC-111,Prof. Amit Garg,CSED,D3-E,4
+FAC-112,Dr. Sneha Verma,MCA,,5
+FAC-113,Prof. Kamal Kant,CSED,D4-M,4
+FAC-114,Dr. Preeti Tyagi,BCA,,4
+FAC-115,Prof. Gaurav Bansal,CSED,D1-M,5
+FAC-116,Dr. Anjali Mathur,MCA,,4
+FAC-117,Prof. Saurabh Dixit,BCA,D5-M,4
+FAC-118,Dr. Pradeep Rawat,CSED,,5
+FAC-119,Prof. Sunita Kumari,MCA,D2-E,4
+FAC-120,Dr. Pankaj Goswami,CSED,,6

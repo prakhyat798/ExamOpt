@@ -1,0 +1,7 @@
+subject_id,name,program,semester,duration_hours,requires_lab,fixed_slot,unavailable_slots,enrolled_students
+BCA-101,Math Foundation,BCA,1,3,0,D1-M,,60
+BCA-101,Duplicate Math Entry,BCA,1,3,0,D1-E,,50
+ERR-NEG-01,Corrupted Quantum Computing,MCA,1,3,0,,,-40
+ERR-CONTRA-02,Contradictory Logic Systems,BCA,3,3,0,D2-M,D2-M|D3-E,45
+ERR-SLOT-03,Invalid Slot Reference Subject,BCA-DS,5,3,0,D99-M,D88-E,55
+ERR-MISSING-04,,INVALID_PROG,12,10,5,,,30

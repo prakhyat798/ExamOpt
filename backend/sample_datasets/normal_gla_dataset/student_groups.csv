@@ -1,0 +1,9 @@
+group_id,name,program,semester,is_backlog_group,student_count
+GRP-BCA-S1,BCA Semester 1 Regular,BCA,1,0,60
+GRP-BCADS-S3,BCA (Data Science) Sem 3 Regular,BCA-DS,3,0,55
+GRP-BCA-S3,BCA General Sem 3 Regular,BCA,3,0,50
+GRP-BCADS-S5,BCA (Data Science) Sem 5 Regular,BCA-DS,5,0,55
+GRP-MCA-S1,MCA Semester 1 Regular,MCA,1,0,65
+GRP-BL-S5-S3,BCA-DS Sem 5 Cohort with Sem 3 Backlog,BCA-DS,5,1,25
+GRP-BL-S3-S1,BCA Sem 3 Cohort with Sem 1 Backlog,BCA,3,1,25
+GRP-BL-MCA-BCA,MCA Sem 1 Cohort with BCA Bridge Backlog,MCA,1,1,20
